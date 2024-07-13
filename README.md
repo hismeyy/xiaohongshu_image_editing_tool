@@ -1,0 +1,2 @@
+# xiaohongshu_image_editing_tool
+解决小红书图片通过Excel导入后，批量生成笔记图片
